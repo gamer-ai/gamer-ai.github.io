@@ -1,9 +1,10 @@
-## welcome to gamer-ai org
-### a github organization on 3D graphics projects
+![org-avatar](https://avatars1.githubusercontent.com/u/65046000?v=4&s=100)
+
+### welcome to gamer-ai org, a github organization on 3D graphics projects
 
 ---
 
-### People
+### People:
 
 [![Follow MY Github](https://img.shields.io/badge/Taoran-purple?style=for-the-badge&logo=Github)](https://github.com/lele94218)
 [![Follow MY Github](https://img.shields.io/badge/Muyang-purple?style=for-the-badge&logo=Github)](https://github.com/MUYANGGUO)
