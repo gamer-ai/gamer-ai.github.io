@@ -33,8 +33,10 @@
 	<figcaption></figcaption>
 </figure>
 
-[![Youtube Demo](https://img.shields.io/badge/amrgl@milestone4-Demo-black?style=for-the-badge&logo=Youtube)](https://www.youtube.com/watch?v=Z6HhwmktlUY)
-
-[![Youtube Demo](https://img.shields.io/badge/amrgl@milestone5-Demo-black?style=for-the-badge&logo=Youtube)](https://www.youtube.com/watch?v=8lfT78DAFR4)
-
 	... in Dev & Build for more features. Currently on Milestone 6.
+
+[![Youtube Demo](https://img.shields.io/badge/amrgl@milestone4-Demo-black?style=for-the-badge&logo=Youtube)](https://www.youtube.com/watch?v=8lfT78DAFR4)
+
+[![Youtube Demo](https://img.shields.io/badge/amrgl@milestone5-Demo-black?style=for-the-badge&logo=Youtube)](https://www.youtube.com/watch?v=Z6HhwmktlUY)
+
+---
