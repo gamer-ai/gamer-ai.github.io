@@ -30,11 +30,12 @@
 
 [![Youtube Demo](https://img.shields.io/badge/amrgl@milestone5-Demo-black?style=for-the-badge&logo=Youtube)](https://www.youtube.com/watch?v=Z6HhwmktlUY)
 
-[![Youtube Demo](https://img.shields.io/badge/amrgl@milestone6-Demo-black?style=for-the-badge&logo=Youtube)](https://www.youtube.com/watch?v=XvW0tzeSSVc)
-
 <figure>
 	<a href="https://github.com/gamer-ai/amrgl/tree/master"><img src="https://drive.google.com/uc?id=1QECqAunhEkVF2VVjfikttXiFYv_h_WIr"></a>
 </figure>
+
+[![Youtube Demo](https://img.shields.io/badge/amrgl@milestone6-Demo-black?style=for-the-badge&logo=Youtube)](https://www.youtube.com/watch?v=XvW0tzeSSVc)
+
 
 <figure>
 	<a href="https://github.com/gamer-ai/amrgl/tree/master"><img src="https://drive.google.com/uc?id=12kbf2oButj8YuCyJE3ERvx2zLQtVLAsG"></a>
