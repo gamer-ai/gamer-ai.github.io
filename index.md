@@ -44,3 +44,9 @@
 	... in Dev & Build for more features. Currently on Milestone 7.
 	
 ---
+
+[![EleTypes](https://img.shields.io/badge/3-EleTypes-yellow.svg)](https://gamer-ai.github.io/eletype-frontend) [![EleTypes](https://img.shields.io/badge/repo@-EleTypes-green.svg)](https://github.com/gamer-ai/eletype-frontend) [![EleTypes](https://img.shields.io/badge/In-BuildFrontendV1.01-blue.svg)](https://gamer-ai.github.io/eletype-frontend)
+
+www.eletypes.com
+
+
