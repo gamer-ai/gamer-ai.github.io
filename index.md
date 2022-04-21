@@ -45,8 +45,12 @@
 	
 ---
 
-[![EleTypes](https://img.shields.io/badge/3-EleTypes-yellow.svg)](https://gamer-ai.github.io/eletype-frontend) [![EleTypes](https://img.shields.io/badge/repo@-EleTypes-green.svg)](https://github.com/gamer-ai/eletype-frontend) [![EleTypes](https://img.shields.io/badge/In-BuildFrontendV1.01-blue.svg)](https://gamer-ai.github.io/eletype-frontend)
+[![EleTypes](https://img.shields.io/badge/3-EleTypes-yellow.svg)](https://www.eletypes.com) [![EleTypes](https://img.shields.io/badge/repo@-EleTypes-green.svg)](https://github.com/gamer-ai/eletype-frontend) 
 
-www.eletypes.com
+an elegant typing test tool with a minimalist clean design.
+
+<img width="988" alt="Screen Shot 2022-04-20 at 4 52 24 PM" src="https://user-images.githubusercontent.com/39578778/164370326-501a2f99-e3a9-4d87-8a8f-c2980f9fe09a.png">
+<img width="1094" alt="EleTypes" src="https://user-images.githubusercontent.com/39578778/164370436-64af2828-fd88-48ff-9dbe-c8d5e9713ed3.png">
+
 
 
